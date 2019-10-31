@@ -15,7 +15,7 @@
  * 解题思路：利用折线图的思想，只需要找到所有波谷到波峰的差值之和。
  *
  */
-package com.steven.leecode;
+package com.steven.leecode.arrays;
 
 public class Solution2 {
     public static int maxProfit(int[] prices) {

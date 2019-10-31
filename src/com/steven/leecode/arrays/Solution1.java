@@ -6,7 +6,7 @@
  * @author: steven
  * @create: 2019-10-29 23:37
  **/
-package com.steven.leecode;
+package com.steven.leecode.arrays;
 
 public class Solution1 {
     public static int removeDuplicates(int[] nums) {
